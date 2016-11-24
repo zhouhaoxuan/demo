@@ -20,6 +20,8 @@
     
     NSLog(@"aaaa");
     
+    NSLog(@"bbbb");
+    
 }
 
 
